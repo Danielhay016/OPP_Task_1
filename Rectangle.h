@@ -5,7 +5,6 @@
 
 using namespace std;
 
-//Daniel Hay - 209042720
 
 class Rectangle
 {
