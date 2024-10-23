@@ -3,7 +3,7 @@
 #include <iostream>
 
 using namespace std;
-//Daniel Hay - 209042720
+
 
 //C'tor 
 Grid::Grid(double tileW, double tileH, int width, int height, int color)
