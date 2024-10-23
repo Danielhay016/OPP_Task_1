@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//Daniel Hay - 209042720
+
 
 
 int Rectangle::m_count = 0;
