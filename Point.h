@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//Daniel Hay - 209042720
+
 
 //A class that describes a point on a plane
 class Point
