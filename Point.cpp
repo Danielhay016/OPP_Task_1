@@ -2,7 +2,7 @@
 #include "Point.h"
 using namespace std;
 
-//Daniel Hay - 209042720
+
 
 
 //C'tor
